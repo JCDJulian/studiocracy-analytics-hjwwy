@@ -17,4 +17,4 @@ Q&A
   * Is Tableau the preferred software for analytics?
     - Tableau looks like it'll work great.
   * What are the requirements for admin dashboard?
-   - The purpose of the dashboards is for us to track statistics of our user base, and for artist to track statiscs on their content. I'll bring it up at tomorrow's meeting and talk to our designers to discuss specifics on how it should look, and we'll figure out exactly what statistics we'd be looking to track.
+   - The purpose of the dashboards is for us to track statistics of our user base, and for artist to track statistics on their content. I'll bring it up at tomorrow's meeting and talk to our designers to discuss specifics on how it should look, and we'll figure out exactly what statistics we'd be looking to track.
